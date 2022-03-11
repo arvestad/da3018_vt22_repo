@@ -1,0 +1,11 @@
+DA3018 Computer Science
+MM2001 Matematik I
+DA2004 Programmeringsteknik
+MT3001 Sannolikhetsteori 1
+DA4005 Algoritmer och komplexitet
+DA4003 Programmeringsparadigm
+MM5016 Numerisk analys I
+DA5001 Numeriska analys II
+DA4002 Mjukvaruutveckling
+DA4001 Databasteknik
+DA4004 Introduktion till maskininlarning
