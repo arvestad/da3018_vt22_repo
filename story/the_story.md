@@ -7,3 +7,5 @@ No one knows how old the castle was just like no one knows what the biggest ***p
 Maybe it was just a coincidence and maybe it was not.Anyway...
 A group of mathematicians gathered here in order to figure out what the biggest ***prime number*** is.
 To find the biggest prime they first needed the biggest number.
+
+"The task of finding that great number requires the work a great man" someone said. A conflict among the members arose — who was truly the greatest mathematician in the realms of Brunnsviken?
