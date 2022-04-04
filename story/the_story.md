@@ -3,7 +3,10 @@
 Once upon a time, by a lake called _Brunnsviken_, there was an old castle
 made of red bricks. 
 
-No one knows how old the castle was just like no one knows what the biggest ***prime number*** is...
-Maybe it was just a coincidence and maybe it was not.Anyway...
-A group of mathematicians gathered here in order to figure out what the biggest ***prime number*** is.
-To find the biggest prime they first needed the biggest number.
+No one knows how old the castle was just like no one knows what the largest ***prime number*** is...
+Maybe it was just a coincidence and maybe it was not. Anyway...
+
+A group of mathematicians gathered here in order to figure out what the largest ***prime number*** is.
+To find the largest prime they first needed the largest number.
+
+The mathematicians set out to hunt down the largest number. After a long and tiresome hunt they came to the agonizing realisation that there is no largest number. After successfully having gone through the five stages of grief they could finally move on to new exciting adventures.
