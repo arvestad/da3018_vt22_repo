@@ -12,14 +12,14 @@ public class CourseArray {
     }
 
     /*
-     * Copy constructor — new object with the same data as 'other'
+     * Copy constructor - new object with the same data as 'other'
      */
     CourseArray(CourseArray other) {
         courses.addAll(other.courses);     // Copy items from 'other' to this object
     }
 
     /*
-     * selectionSort – implements the Selection Sort algorithm.
+     * selectionSort - implements the Selection Sort algorithm.
      *
      * Input: none
      * Output: none
